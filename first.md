@@ -1,4 +1,4 @@
-# Your first Spectre.css files
+# Spectre.css tutorial: Your first Spectre.css files
 
 ## The simplest HTML document using Spectre.css
 
@@ -34,8 +34,8 @@ Here's the resulting web page:
 
 ## Adding a plain navbar
 
-Modern websites almost always have a specialize menu at the top of the page called a navbar. Here's the simplest 
-Spectre.css navbar:
+Modern websites almost always have a distinguished menu at the top of the page called a navbar. Here's the simplest 
+Spectre.css navbar. Our page is already looking pretty good in just 24 lines of code, including comments.
 
 File `plain-nav.html` [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/plain-nav.html), 
 [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/plain-nav.html)
