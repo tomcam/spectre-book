@@ -19,7 +19,7 @@ File `min.html` [GitHub Source](https://github.com/tomcam/spectre-book/blob/mast
 <body>
  	<div class="container">
 		<h1>Minimal Spectre.css template</h1>
-		<p>Entire page withih div of class container</p>
+		<p>Entire page within div of class container</p>
 	</div><!-- .container -->
 </body>
 </html>
