@@ -39,6 +39,7 @@ While this book is in progress, check out the [Examples](examples/) section for 
 ## Notes to self
 
 * [Validate](https://validator.w3.org/nu/#textarea) code before uploading
+* My [early examples](https://github.com/tomcam/spectre-css-examples)
 * eBooks seem to prefer about a 60-character line length:
 
 ```text
