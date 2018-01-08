@@ -25,7 +25,9 @@ File `min.html` [GitHub Source](https://github.com/tomcam/spectre-book/blob/mast
 </html>
 ```
 
+Here's the resulting web page:
 
+![](screenshots/screenshot-min-1024x512.png)
 <!--
 **XXX** XXX. [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/xxx.html), 
 [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/xxx.html)
