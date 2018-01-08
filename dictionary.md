@@ -1,8 +1,10 @@
 
-| Term          | Spectre source file | Spectre documentation |
-|---------------| ------------- |
-| navbar | https://github.com/picturepan2/spectre/blob/master/dist/spectre.css  | [navbar](https://picturepan2.github.io/spectre/layout.html#navbar) |
+| Term | Purpose | Source file | Documentation |
+| --- | --- | --- | --- |
+| `navbar` | Top menu |  [spectre.css](https://github.com/picturepan2/spectre/blob/master/dist/spectre.css) | [navbar](https://picturepan2.github.io/spectre/layout.html#navbar) |
+| 'mr2' | Add margin padding | [spectre.css](https://github.com/picturepan2/spectre/blob/master/dist/spectre.css) | xxx |
 
-| Term | Source | Documentation |
-| --- | --- | --- |
-| `navbar` | [spectre.css](https://github.com/picturepan2/spectre/blob/master/dist/spectre.css) | [navbar](https://picturepan2.github.io/spectre/layout.html#navbar) |
+
+<!--
+| 'xxx' | | [spectre.css](https://github.com/picturepan2/spectre/blob/master/dist/spectre.css) | xxx |
+-->
