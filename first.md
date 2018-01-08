@@ -17,12 +17,13 @@ File `min.html` [GitHub Source](https://github.com/tomcam/spectre-book/blob/mast
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/spectre.css/0.2.10/spectre.min.css" />
 </head>
 <body>
-  <div class="container">
-    <h1>Minimal Spectre.css template</h1>
-    <p>Entire page withih div of class container</p>
-  </div><!-- .container -->
+ 	<div class="container">
+		<h1>Minimal Spectre.css template</h1>
+		<p>Entire page withih div of class container</p>
+	</div><!-- .container -->
 </body>
-</html>```
+</html>
+```
 
 
 <!--
