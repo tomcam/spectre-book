@@ -17,6 +17,10 @@ While this book is in progress, check out the [Examples](examples/) section for 
 
 This book emphasizes the use of complete HTML files with extensive comments, instead of providing fragments without context. Whenever possible, each concept discussed contains at least one downloadable HTML file you can run as is.
 
+## Contents
+
+* [Spectre.css tutorial: Your first Spectre.css files](first.md)
+
 ## Reference
 
 ### Spectre.css source
