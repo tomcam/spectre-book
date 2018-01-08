@@ -13,6 +13,10 @@ This is a book in progress on how to use the remarkable [Spectre.css Framework](
 
 While this book is in progress, check out the [Examples](examples/) section for usable code from the book.
 
+## What makes this book different
+
+This book emphasizes the use of complete HTML files with extensive comments, instead of providing fragments without context. Whenever possible, each concept discussed contains at least one downloadable HTML file you can run as is.
+
 ## Reference
 
 ### Spectre.css source
