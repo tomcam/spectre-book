@@ -1,6 +1,13 @@
 # The LEAST you need to know about Spectre.css
 
-This is a book in progress on how to use the remarkable [Spectre.css Framework](https://picturepan2.github.io/spectre/).
+This is a book in progress on how to use the remarkable [Spectre.css Framework](https://picturepan2.github.io/spectre/). Spectre.css has a perfectly balanced blend of features. Spectre is
+
+* Small
+* Fast
+* Compatible with a wide range of older browsers, dating back at least to Android 4.4
+* Feature-rich
+* [Well-supported](https://github.com/picturepan2/spectre/issues)
+* Stable and nearly bug-free
 
 ## Free Spectre.css example templates
 
