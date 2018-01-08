@@ -9,7 +9,7 @@ Most of these templates are designed so that you can copy them into a local dire
 
 ### Production and compatibility warning
 
-It's likely that by the time you read this the version of Spectre.css used in these examples is outdated. Or it's possible that the CDN is down. So for production purposes you should copy the [Spectre.css style sheets](https://github.com/picturepan2/spectre/blob/master/docs/dist/spectre.css) from GitHub to your development machine.
+It's likely that by the time you read this the version of Spectre.css used in these examples is outdated. Or it's possible that the CDN is down. So for production purposes you should copy the [Spectre.css style sheets](https://github.com/picturepan2/spectre/tree/master/docs/dist) from GitHub to your development machine.
 
 ## Free Spectre.css website templates
 
