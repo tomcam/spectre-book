@@ -37,6 +37,8 @@ Here's the resulting web page:
 Modern websites almost always have a specialize menu at the top of the page called a navbar. Here's the simplest 
 Spectre.css navbar:
 
+File `plain-nav.html` [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/plain-nav.html), 
+[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/plain-nav.html)
 
 ```html
 <!doctype html>
