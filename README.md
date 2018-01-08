@@ -1,5 +1,7 @@
 # The LEAST you need to know about Spectre.css
 
+This is a book in progress on how to use the remarkable [Spectre.css Framework](https://picturepan2.github.io/spectre/).
+
 ## Free Spectre.css example templates
 
 While this book is in progress, check out the [Examples](examples/) section for usable code from the book.
@@ -27,4 +29,13 @@ While this book is in progress, check out the [Examples](examples/) section for 
   * [Shaped divs](https://picturepan2.github.io/spectre/utilities.html#shapes)
   * [Text](https://picturepan2.github.io/spectre/utilities.html#text)
 
+## Notes to self
+
+* [Validate](https://validator.w3.org/nu/#textarea) code before uploading
+* eBooks seem to prefer about a 60-character line length:
+
+```text
+012345678901234567890123456789012345678901234567890123456789
+1 .     10 .      20        30 .      40         50       60
+```
 
