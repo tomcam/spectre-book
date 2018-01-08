@@ -2,10 +2,10 @@
 
 This is a book in progress on how to use the remarkable [Spectre.css Framework](https://picturepan2.github.io/spectre/). Spectre.css has a perfectly balanced blend of features. Spectre is
 
-* Small
+* Small (about 10-20KB gzipped)
 * Fast
-* Compatible with a wide range of older browsers, dating back at least to Android 4.4
-* Feature-rich
+* Compatible with a wide range of older browsers, dating back at least to Android 4.4 ([officially supports last 4 versions of all major browsers](https://github.com/picturepan2/spectre#browser-support) but goes back further than that
+* Feature-rich, with a [huge set of components](https://github.com/picturepan2/spectre#browser-support)
 * [Well-supported](https://github.com/picturepan2/spectre/issues)
 * Stable and nearly bug-free
 
