@@ -1,4 +1,4 @@
-# Notes on how CSS is used in this book
+# Notes on how CSS is used by Spectre.css
 
 
 ## The default html font size is not guaranteed
