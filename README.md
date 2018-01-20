@@ -21,6 +21,7 @@ This book emphasizes the use of complete HTML files with extensive comments, ins
 
 ### [Spectre.css tutorial: Your first Spectre.css files](first.md)
 #### [Adding a plain navbar](https://github.com/tomcam/spectre-book/blob/master/first.md#adding-a-plain-navbar)
+### [Dictionary](dictionary.md)
 
 ## Reference
 
@@ -51,8 +52,10 @@ This book emphasizes the use of complete HTML files with extensive comments, ins
 * My [early examples](https://github.com/tomcam/spectre-css-examples)
 * eBooks seem to prefer about a 60-character line length:
 
+### 60-character ruler for code
+
 ```text
 012345678901234567890123456789012345678901234567890123456789
-1 .     10 .      20        30 .      40         50       60
+1        10        20        30        40         50      60
 ```
 
