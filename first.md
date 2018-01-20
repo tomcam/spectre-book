@@ -1,4 +1,4 @@
-# Spectre.css tutorial: Your first Spectre.css files
+# Spectre.css tutorial: Your first Spectre.css page
 
 ## The simplest HTML document using Spectre.css
 
