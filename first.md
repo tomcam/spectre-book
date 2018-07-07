@@ -1,10 +1,11 @@
-# Spectre.css tutorial: Your first Spectre.css page
+# Spectre.css tutorial: Your first Spectre.css project
 
 ## The simplest HTML document using Spectre.css
 
-The minimal HTML document using Spectre.css simple includes the file spectre.min.css. 
+The minimal HTML document using Spectre.css simply includes the file spectre.min.css,
+but this book tries to keep things closer to realistic. 
 For the most part you will normally want to use the class `container` on your `div`s 
-because it sets a reasonable default for marins.
+because it sets a reasonable default for margins.
 
 File `min.html` [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/min.html), 
 [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/min.html)
