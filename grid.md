@@ -1,14 +1,14 @@
 ## Multiple columns and the grid model
 
-File `blogdrama.html` [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/blogdrama.html), 
-[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/blogdrama.html)
+File `blogdrama.html` [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/2col-blog.html), 
+[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/2col-blog.html)
 
 ```html
 <!doctype html>
 <html lang="en">
 <head>
 	<!-- Create title for browser tabs & Favorites -->
-	<title>Blogdrama template | Spectre.css</title>
+	<title>2 col blog template | Spectre.css</title>
 	<!-- Notify browsers this page is in Unicode -->
 	<meta charset="utf-8">
 	<!-- This site is responsive. Use full screen width. -->
