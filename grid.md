@@ -1,6 +1,6 @@
 ## Multiple columns and the grid model
 
-File `blogdrama.html` [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/2col-blog.html), 
+File `2col-blog.html` [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/2col-blog.html), 
 [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/2col-blog.html)
 
 ```html
