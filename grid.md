@@ -8,13 +8,13 @@ File `blogdrama.html` [GitHub Source](https://github.com/tomcam/spectre-book/blo
 <html lang="en">
 <head>
 	<!-- Create title for browser tabs & Favorites -->
-	<title>2 col blog template | Spectre.css</title>
+	<title>2col-blog template | Spectre.css</title>
 	<!-- Notify browsers this page is in Unicode -->
 	<meta charset="utf-8">
 	<!-- This site is responsive. Use full screen width. -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="2 column blog template">
-	<meta name="keywords" content="spectre.css, blog, template">	
+	<meta name="keywords" content="spectre.css, blog, 2 columns, template">	
 	<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
 	<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-exp.min.css">
 	<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-icons.min.css">
@@ -52,8 +52,9 @@ File `blogdrama.html` [GitHub Source](https://github.com/tomcam/spectre-book/blo
 
 		</div><!-- .columns -->
 	</div><!-- .container  -->
-</body>```
+</body>
+```
 
 Here's the resulting web page:
 
-![](screenshots/screenshot-min-1024x512.png)
+![Screenshot of finished blog template](screenshots/screenshot-2col-blog-1024x512.png)
