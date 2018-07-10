@@ -21,6 +21,7 @@ This book emphasizes the use of complete HTML files with extensive comments, ins
 
 ### [Spectre.css tutorial: Your first Spectre.css project](first.md)
 #### [Adding a plain navbar](https://github.com/tomcam/spectre-book/blob/master/first.md#adding-a-plain-navbar)
+#### [Multiple columns and the grid model](https://github.com/tomcam/spectre-book/blob/master/grid.md)
 ### [Dictionary](dictionary.md)
 
 ## Reference
