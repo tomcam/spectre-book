@@ -17,7 +17,7 @@ File `min.html` [GitHub Source](https://github.com/tomcam/spectre-book/blob/mast
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Minimal template | Spectre.css</title>
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/spectre.css/0.2.10/spectre.min.css" />
+	<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css" />
 </head>
 <body>
  	<div class="container">
