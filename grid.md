@@ -24,8 +24,8 @@ It is of course 12 units wide:
 	</div><!--  .container -->
 ```
 
-[Complete file source](https://github.com/tomcam/spectre-book/blob/master/examples/illo-grid-1-row.html), 
-[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/illo-grid-1-row.html)
+[Complete file source](https://github.com/tomcam/spectre-css-examples/blob/master/illos/illo-grid-1-row.html), 
+[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-css-examples/blob/master/illos/illo-grid-1-row.html)
 
 To add a row, insert another div of type "columns" 
 at peer level, within the "container" div:
@@ -41,12 +41,8 @@ at peer level, within the "container" div:
 	</div><!--  .container -->
 ```
 
-[Complete file source](https://github.com/tomcam/spectre-book/blob/master/examples/illo-grid-2-rows.html), 
-[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/illo-grid-2-rows.html)
-
-
-
-
+[Complete file source](https://github.com/tomcam/spectre-css-examples/blob/master/illos/illo-grid-2-rows.html), 
+[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-css-examples/blob/master/illos/illo-grid-2-rows.html)
 
 ## A grid has 12 columns
 
