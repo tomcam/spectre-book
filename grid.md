@@ -180,8 +180,8 @@ Note that the client area has 3 columns.
 </div><!--  .container -->
 ```
 
-[Complete file source](https://github.com/tomcam/spectre-book/blob/master/examples/illo-header-3col-bottom-a.html), 
-[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/illo-header-3col-bottom-a.html)
+[Complete file source](https://github.com/tomcam/spectre-book/blob/master/illos/illo-header-3col-bottom-a.html), 
+[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/illos/illo-header-3col-bottom-a.html)
 
 ### Step 2: Start with a 3-column, add a footer
 
@@ -220,8 +220,8 @@ Note that the client area has 3 columns.
 </div><!--  .container -->
 ```
 
-[Complete file source](https://github.com/tomcam/spectre-book/blob/master/examples/illo-header-3col-bottom-d.html), 
-[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/illo-header-3col-bottom-d.html)
+[Complete file source](https://github.com/tomcam/spectre-book/blob/master/illos/illo-header-3col-bottom-d.html), 
+[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/illos/illo-header-3col-bottom-d.html)
 
 ### Place a nested grid between the header and footer.
 
