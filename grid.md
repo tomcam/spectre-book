@@ -146,30 +146,79 @@ File `2col-blog.html` [GitHub Source](https://github.com/tomcam/spectre-book/blo
 [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/2col-blog.html)
 
 
-```html
-	<div class="container">
-		<!-- The top "cap" with the h1 in it -->
-		<div class="columns">
-			
-			<!-- hide-lg makes the left column disappear when width is decreased -->
-			<div class="column">
-			</div>
+## Nested grids
 
-			<div class="column col-6 text-center" style="border: 1px solid black;">
-				<h1>Top-level header</h1>
-			</div>
-			
-			<div class="column col-3 hide-lg">
-			</div>
-			
-		</div><!-- .columns -->
-	</div><!--  .container -->
+Grids can be nested. Let's create this infographic template:
+
+[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-css-examples/blob/master/examples/slidefu-infographic.html)
+
+
+### Step 1: Start with a 3-column, one row header
+
+
+
+```html
+<div class="container">
+	<!-- The top "cap" with the h1 in it -->
+	<div class="columns">
+
+		<div class="column col-3">
+		</div>
+
+		<div class="column col-6">
+			<h1>Top-level header</h1>
+		</div>
+
+		<div class="column col-3">
+		</div>
+
+	</div><!-- .columns -->
+</div><!--  .container -->
 ```
 
 [Complete file source](https://github.com/tomcam/spectre-book/blob/master/examples/illo-header-3col-bottom-a.html), 
 [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/illo-header-3col-bottom-a.html)
 
+### Step 2: Start with a 3-column, add a footer
+
+```html
+<div class="container">
+	<!-- The top "cap" with the h1 in it -->
+	<div class="columns">
+
+		<div class="column col-3">
+		</div>
+
+		<div class="column col-6">
+			<h1>Top-level header</h1>
+		</div>
+
+		<div class="column col-3">
+		</div>
+
+	</div><!-- .columns -->
+</div><!--  .container -->
+
+	<!-- Bottom footer-like "cap" under the 3 columns -->
+	<div class="columns">
+
+		<div class="column col-3">
+		</div>
+
+		<div class="column col-6">
+			<p>Bottom panel for <a href="https://spectrebook.com">EXAMPLE.COM</a></p>
+		</div>
+
+		<div class="column col-3">
+		</div>
+	</div><!-- .columns -->
+
+</div><!--  .container -->
+```
+
+[Complete file source](https://github.com/tomcam/spectre-book/blob/master/examples/illo-header-3col-bottom-d.html), 
+[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/illo-header-3col-bottom-d.html)
 
 
-## Nested grids
+
 
