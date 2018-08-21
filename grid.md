@@ -201,7 +201,6 @@ Note that the client area has 3 columns.
 		</div>
 
 	</div><!-- .columns -->
-</div><!--  .container -->
 
 	<!-- Bottom footer-like "cap" under the 3 columns -->
 	<div class="columns">
