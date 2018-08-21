@@ -40,7 +40,43 @@ at peer level, within the "container" div:
 
 ## A grid has 12 columns
 
-A grid is thought to be 12 columns wide.
+A grid can be made up to 12 columns wide.
+These columns expand to fill the `container` div
+that encloses them. Here's the skeleton of
+a blog page template that fills 4 columns on 
+the left for a sidebar, and 8 columns to the
+right for the client (article) area of the blog.
+
+```html
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
+</head>
+<body>
+	<div class="container">
+		<div class="columns">
+			<!-- LEFT COLUMN -->
+			<div class="column col-4" 
+				<h3>Notes</h3>
+				<h4>From the edge</h4>
+			</div><!-- .column .col-4 -->
+
+			<!-- RIGHT COLUMN-CLIENT AREA -->
+			<div class="column col-8">  
+				<h1>Welcome, my friends.</h1> 
+				<h2>Dramatic, simple 2-column</h2>
+				<p>hello, world.</p>
+			</div><!-- .column .col-8  -->
+
+		</div><!-- .columns -->
+	</div><!-- .container  -->
+</body>
+```
+
+
 
 ```html
 	<div class="container">
