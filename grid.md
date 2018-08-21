@@ -148,13 +148,17 @@ File `2col-blog.html` [GitHub Source](https://github.com/tomcam/spectre-book/blo
 
 ## Nested grids
 
-Grids can be nested. Let's create this infographic template:
+Grids can be nested. Let's create this infographic:
 
 [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-css-examples/blob/master/slidefu-infographic.html)
 
+It consists of three rows: the header, the bottom, and the client area showing most of the text.
+See the margin on each side? It's 3 blank columns. So the client area is 6 columns wide, with
+3 columns of nothingness on each side.
+
+Note that the client area has 3 columns.
 
 ### Step 1: Start with a 3-column, one row header
-
 
 
 ```html
@@ -218,6 +222,11 @@ Grids can be nested. Let's create this infographic template:
 
 [Complete file source](https://github.com/tomcam/spectre-book/blob/master/examples/illo-header-3col-bottom-d.html), 
 [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/illo-header-3col-bottom-d.html)
+
+### Place a nested grid between the header and footer.
+
+[Complete file source](https://github.com/tomcam/spectre-book/blob/master/examples/illo-header-3col-bottom-c.html), 
+[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/illo-header-3col-bottom-c.html)
 
 
 
