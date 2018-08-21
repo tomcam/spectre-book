@@ -5,8 +5,8 @@
 A grid must be inside a div of type `container`:
 
 ```html
-	<div class="container">
-	</div><!-- .container -->
+<div class="container">
+</div><!-- .container -->
 ```
 
 ## Each row is enclosed in a div of class "columns"
@@ -17,11 +17,11 @@ Here's a grid with a single row.
 It is of course 12 units wide:
 
 ```html
-	<div class="container">
-		<div class="columns">
-			<h1>Row 1</h1>
-		</div><!-- .columns -->
-	</div><!--  .container -->
+<div class="container">
+	<div class="columns">
+		<h1>Row 1</h1>
+	</div><!-- .columns -->
+</div><!--  .container -->
 ```
 
 [Complete file source](https://github.com/tomcam/spectre-css-examples/blob/master/illos/illo-grid-1-row.html), 
@@ -31,14 +31,14 @@ To add a row, insert another div of type "columns"
 at peer level, within the "container" div:
 
 ```html
-	<div class="container">
-		<div class="columns">
-			<h1>Row 1</h1>
-		</div><!-- .columns -->
-		<div class="columns">
-			<h1>Row 2</h1>
-		</div><!-- .columns -->
-	</div><!--  .container -->
+<div class="container">
+	<div class="columns">
+		<h1>Row 1</h1>
+	</div><!-- .columns -->
+	<div class="columns">
+		<h1>Row 2</h1>
+	</div><!-- .columns -->
+</div><!--  .container -->
 ```
 
 [Complete file source](https://github.com/tomcam/spectre-css-examples/blob/master/illos/illo-grid-2-rows.html), 
@@ -53,46 +53,38 @@ that encloses them.
 You can designate a `column` div with a column width.
 If it's given the name `col-1` the div is 1/12 of the grid wide.
 If it's given the name `col-6` the div is half the width of the grid,
-and `col-12` means full grid with.
+and `col-12` means full grid width.
 
 Here's the skeleton of
 a blog page template that fills 4 columns on 
 the left for a sidebar, and 8 columns to the
 right for the client (article) area of the blog.
 
-It's best for the total number of columns
-
 ```html
-<!doctype html>                                                               
-<html lang="en">                                                             
-<head>                                                                     
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">                                 
-        <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
-</head>                                                                         
-<body>
-        <div class="container">
-                <div class="columns">
-                        <!-- LEFT COLUMN -->
-                        <div class="column col-4" 
-                                <h3>Notes</h3>
-                                <h4>From the edge</h4>
-                        </div><!-- .column .col-4 -->
-                                
-                        <!-- RIGHT COLUMN-CLIENT AREA -->
-                        <div class="column col-8">
-                                <h1>Welcome, my friends.</h1>
-                                <h2>Dramatic, simple 2-column</h2>
-                                <p>hello, world.</p>
-                        </div><!-- .column .col-8  -->
-                        
-                </div><!-- .columns -->
-        </div><!-- .container  -->
-</body>  
+<div class="container">
+	<div class="columns">
+		
+		<!-- LEFT COLUMN -->
+		<div class="column col-4" 
+			<h3>Notes</h3>
+			<h4>From the edge</h4>
+		</div><!-- .column .col-4 -->
+
+		<!-- RIGHT COLUMN-CLIENT AREA -->
+		<div class="column col-8">
+			<h1>Welcome, my friends.</h1>
+			<h2>Dramatic, simple 2-column</h2>
+			<p>hello, world.</p>
+		</div><!-- .column .col-8  -->
+
+	</div><!-- .columns -->
+</div><!-- .container  -->
 ```
 
 [Complete file source](https://github.com/tomcam/spectre-css-examples/blob/master/illos/illo-grid-blog-skeleton.html), 
 [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-css-examples/blob/master/illos/illo-grid-blog-skeleton.html)
+
+Let's take a look at that skeleton filled out for real-world use:
 
 ```html
 <!doctype html>
