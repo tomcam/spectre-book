@@ -47,7 +47,7 @@ that encloses them.
 
 You can designate a `column` div with a column width.
 If it's given the name `col-1` the div is 1/12 of the grid wide.
-If it's given the name `col-6' the div is half the width of the grid,
+If it's given the name `col-6` the div is half the width of the grid,
 and `col-12` means full grid with.
 
 Here's the skeleton of
