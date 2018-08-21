@@ -40,12 +40,21 @@ at peer level, within the "container" div:
 
 ## A grid has 12 columns
 
-A grid can be made up to 12 columns wide.
+A grid is made up of 12 equidistant columns.
 These columns expand to fill the `container` div
-that encloses them. Here's the skeleton of
+that encloses them. 
+
+You can designate a `column` div with a column width.
+If it's given the name `col-1` the div is 1/12 of the grid wide.
+If it's given the name `col-6' the div is half the width of the grid,
+and `col-12` means full grid with.
+
+Here's the skeleton of
 a blog page template that fills 4 columns on 
 the left for a sidebar, and 8 columns to the
 right for the client (article) area of the blog.
+
+It's best for the total number of columns
 
 ```html
 <!doctype html>
@@ -161,3 +170,6 @@ File `2col-blog.html` [GitHub Source](https://github.com/tomcam/spectre-book/blo
 Here's the resulting web page:
 
 ![Screenshot of finished blog template](screenshots/screenshot-2col-blog-1024x512.png)
+
+## Nested grids
+
