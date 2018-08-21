@@ -90,66 +90,6 @@ Let's take a look at that skeleton filled out for real-world use:
 <!doctype html>
 <html lang="en">
 <head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
-</head>
-<body>
-	<div class="container">
-		<div class="columns">
-			<!-- LEFT COLUMN -->
-			<div class="column col-4" 
-				<h3>Notes</h3>
-				<h4>From the edge</h4>
-			</div><!-- .column .col-4 -->
-
-			<!-- RIGHT COLUMN-CLIENT AREA -->
-			<div class="column col-8">  
-				<h1>Welcome, my friends.</h1> 
-				<h2>Dramatic, simple 2-column</h2>
-				<p>hello, world.</p>
-			</div><!-- .column .col-8  -->
-
-		</div><!-- .columns -->
-	</div><!-- .container  -->
-</body>
-```
-
-
-
-```html
-	<div class="container">
-		<!-- The top "cap" with the h1 in it -->
-		<div class="columns">
-			
-			<!-- hide-lg makes the left column disappear when width is decreased -->
-			<div class="column">
-			</div>
-
-			<div class="column col-6 text-center" style="border: 1px solid black;">
-				<h1>Top-level header</h1>
-			</div>
-			
-			<div class="column col-3 hide-lg">
-			</div>
-			
-		</div><!-- .columns -->
-	</div><!--  .container -->
-```
-
-[Complete file source](https://github.com/tomcam/spectre-book/blob/master/examples/illo-header-3col-bottom-a.html), 
-[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/illo-header-3col-bottom-a.html)
-
-
-
-File `2col-blog.html` [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/2col-blog.html), 
-[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/2col-blog.html)
-
-
-```html
-<!doctype html>
-<html lang="en">
-<head>
 	<!-- Create title for browser tabs & Favorites -->
 	<title>2col-blog template | Spectre.css</title>
 	<!-- Notify browsers this page is in Unicode -->
@@ -201,6 +141,35 @@ File `2col-blog.html` [GitHub Source](https://github.com/tomcam/spectre-book/blo
 Here's the resulting web page:
 
 ![Screenshot of finished blog template](screenshots/screenshot-2col-blog-1024x512.png)
+
+File `2col-blog.html` [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/2col-blog.html), 
+[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/2col-blog.html)
+
+
+```html
+	<div class="container">
+		<!-- The top "cap" with the h1 in it -->
+		<div class="columns">
+			
+			<!-- hide-lg makes the left column disappear when width is decreased -->
+			<div class="column">
+			</div>
+
+			<div class="column col-6 text-center" style="border: 1px solid black;">
+				<h1>Top-level header</h1>
+			</div>
+			
+			<div class="column col-3 hide-lg">
+			</div>
+			
+		</div><!-- .columns -->
+	</div><!--  .container -->
+```
+
+[Complete file source](https://github.com/tomcam/spectre-book/blob/master/examples/illo-header-3col-bottom-a.html), 
+[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/illo-header-3col-bottom-a.html)
+
+
 
 ## Nested grids
 
