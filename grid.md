@@ -1,6 +1,6 @@
 # The grid model
 
-## A Grids is enclosed in a div of type "container"
+## A grid is enclosed in a div of type "container"
 
 A grid must be inside a div of type `container`:
 
