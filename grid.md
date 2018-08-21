@@ -183,7 +183,7 @@ Note that the client area has 3 columns.
 [Complete file source](https://github.com/tomcam/spectre-css-examples/blob/master/illos/illo-header-3col-bottom-a.html), 
 [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-css-examples/blob/master/illos/illo-header-3col-bottom-a.html)
 
-### Step 2: Start with a 3-column, add a footer
+### Step 2: Add a single-row footer
 
 ```html
 <div class="container">
