@@ -224,6 +224,69 @@ Note that the client area has 3 columns.
 
 ### Place a nested grid between the header and footer.
 
+```html
+<div class="container">
+	<!-- The top "cap" with the h1 in it -->
+	<div class="columns">
+
+		<!-- hide-lg makes the left column disappear when width is decreased -->
+		<div class="column col-3">
+		</div>
+
+		<div class="column col-6">
+			<h1>Top-level header</h1>
+		</div>
+
+		<div class="column col-3">
+		</div>
+	</div><!-- .columns -->
+
+	<!-- 3 columns under the top cap -->
+	<div class="columns">
+		<div class="column col-3">
+		</div>
+
+		<div class="column col-6">
+			<div class="columns">
+				<div class="column col-4">
+					<h2>Left column</h2>
+					<p>Line 1</p>
+				</div><!-- .column .col-4 -->
+
+				<div class="column col-4">
+					<h2>Middle column</h2>
+					<p>Line 1</p>
+				</div><!-- .column .col-4 -->
+
+				<div class="column col-4">
+					<h2>Right column</h2>
+					<p>Line 1</p>
+				</div>
+			</div><!-- .columns -->
+		</div><!-- .column .col-12 -->
+
+		<div class="column col-3">
+		</div>
+
+	</div><!-- .columns -->
+
+	<!-- Bottom footer-like "cap" under the 3 columns -->
+	<div class="columns">
+
+		<div class="column col-3">
+		</div>
+
+		<div class="column col-6 ">
+			<p>Bottom panel for <a href="https://spectrebook.com">EXAMPLE.COM</a></p>
+		</div>
+
+		<div class="column col-3">
+		</div>
+	</div><!-- .columns -->
+
+</div><!--  .container -->
+```
+
 [Complete file source](https://github.com/tomcam/spectre-css-examples/blob/master/illos/illo-header-3col-bottom-c.html), 
 [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-css-examples/blob/master/illos/illo-header-3col-bottom-c.html)
 
