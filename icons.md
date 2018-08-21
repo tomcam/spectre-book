@@ -1,5 +1,6 @@
 # Using the Spectre.css built-in CSS icon set
-
+<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
+<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-icons.min.css">
 Source code for all [Spectre.css icons](https://github.com/picturepan2/spectre/blob/master/dist/spectre-icons.css)
 
 The simplest possible case:
