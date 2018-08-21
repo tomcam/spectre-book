@@ -150,7 +150,7 @@ File `2col-blog.html` [GitHub Source](https://github.com/tomcam/spectre-book/blo
 
 Grids can be nested. Let's create this infographic template:
 
-[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-css-examples/blob/master/examples/slidefu-infographic.html)
+[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-css-examples/blob/master/slidefu-infographic.html)
 
 
 ### Step 1: Start with a 3-column, one row header
