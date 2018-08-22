@@ -28,5 +28,5 @@ Specify a size of 2x, 3x, or 4x to make it bigger:
 
 | Icon                                        | Description     | Spectre.css Markdown |
 | ------------------------------------------- | --------------- | -------------------- |      
-| <i class="icon icon-2x icon-time"></i>      | Clock           | icon-time            |
+| <p><i class="icon icon-2x icon-time"></i></p>      | Clock           | icon-time            |
 | <i class="icon icon-2x icon-people"></i>    | People          | icon-people         |
