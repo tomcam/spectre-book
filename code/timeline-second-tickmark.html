@@ -2,12 +2,14 @@
 <html lang="en">
 <head>
 	<!-- Create title for browser tabs & Favorites -->
-	<meta charset="utf-8">
+	<title>Timeline with 2 tickmarks, tooltip demo | Spectre.css</title>
 	<!-- This site is responsive. Use full screen width. -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- Ensure use of most common Unicode characters -->
+	<meta charset="utf-8">
 	<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
 	<!-- Considered an "experimental" feature -->
 	<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-exp.min.css" />
-	
 </head>
 <body>
 <div class="container">
@@ -34,6 +36,9 @@
 		<!-- SECOND TICKMARK -->
 		<div class="timeline-item">
 			<!-- Large circle icon for tickmark -->
+			<!-- Add "icon-lg" class to select bigger icon -->
+			<!-- Add "tooltip" class for icon's hover-over text -->
+			<!-- Text of tooltip comes from "data-tooltip" option -->
 			<div class="timeline-left"><a class="timeline-icon icon-lg tooltip" data-tooltip="Oi!" href="#"></a></div><!-- .timeline-left -->
 			<div class="timeline-content">
 				<!-- TEXT IS CONTAINED IN TILE -->
