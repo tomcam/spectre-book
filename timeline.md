@@ -18,58 +18,14 @@ The first example is a timeline with one tickmark and a single item describing t
 
 
 ```html{17-28}
-<!doctype html>                                                                                                                                            
-<html lang="en">                                                                                                                                           
-<head>                                                                                                                                                     
-                                                                                                                                                           
-        <!-- Create title for browser tabs & Favorites -->                                                                                                 
-        <meta charset="utf-8">                                                                                                                             
-        <!-- This site is responsive. Use full screen width. -->                                                                                           
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">                                                                             
-        <title>Minimal timeline | Spectre.css</title>                                                                                                      
-        <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">                                                                  
-        <!-- Considered an "experimental" feature -->                                                                                                      
-        <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-exp.min.css" />                                                            
-                                                                                                                                                           
-</head>                                                                                                                                                    
-<body>                                                                                                                                                     
-<div class="container">                                                                                                                                    
-        <div class="timeline">                                                                                                                             
-                <div class="timeline-item">                                                                                                                
-                        <div class="timeline-left"><a class="timeline-icon" href="#"></a></div><!-- .timeline-left -->                                     
-                        <div class="timeline-content">                                                                                                     
-                                <div class="tile">                                                                                                         
-                                        <div class="tile-content">                                                                                         
-                                                <p class="tile-title">Item 1 (title)</p>                                                                   
-                                        </div><!-- .tile-content -->                                                                                       
-                                </div><!-- tile -->                                                                                                        
-                        </div><!-- .timeline-content -->                                                                                                   
-                </div><!--.timeline -item -->                                                                                                              
-        </div><!-- .timeline -->                                                                                                                           
-</div><!-- .container -->                                                                                                                                  
-</body> 
-```
-
-File `timeline-minimal.html` [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/code/timeline-minimal.html), 
-[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/code/timeline-minimal.html)
-
-## Example 2: A timeline with three items on one tickmark
-
-Here's a timeline with one tickmark on the time line consisting of three items
-
-File `timeline-minimal-with-subtitle.html` [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/code/timeline-minimal-with-subtitle.html), 
-[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/code/timeline-minimal-with-subtitle.html)
-
-```html
 <!doctype html>
 <html lang="en">
 <head>
-
 	<!-- Create title for browser tabs & Favorites -->
 	<meta charset="utf-8">
 	<!-- This site is responsive. Use full screen width. -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Minimal timeline | Spectre.css</title>
+	<title>Minimal timeline with 1 tickmark containing 1 item | Spectre.css</title>
 	<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
 	<!-- Considered an "experimental" feature -->
 	<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-exp.min.css" />
@@ -77,11 +33,54 @@ File `timeline-minimal-with-subtitle.html` [GitHub Source](https://github.com/to
 </head>
 <body>
 <div class="container">
+	
 	<div class="timeline">
+		<!-- FIRST TICKMARK -->
 		<div class="timeline-item">
+			<!-- Small circle icon for tickmark -->
 			<div class="timeline-left"><a class="timeline-icon" href="#"></a></div><!-- .timeline-left -->
 			<div class="timeline-content">
+				<!-- TEXT IS CONTAINED IN TILE -->
 				<div class="tile">
+					<!-- THIS TILE CONTAINS 1 ITEM -->
+					<div class="tile-content">
+						<p class="tile-title">Item 1 (title)</p>
+					</div><!-- .tile-content -->
+				</div><!-- tile -->
+			</div><!-- .timeline-content -->
+		</div><!--.timeline -item -->
+	</div><!-- .timeline -->
+	
+</div><!-- .container -->
+</body>
+```
+
+## Example 2
+
+```html
+<!doctype html>
+<html lang="en">
+<head>
+	<!-- Create title for browser tabs & Favorites -->
+	<meta charset="utf-8">
+	<!-- This site is responsive. Use full screen width. -->
+	<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
+	<!-- Considered an "experimental" feature -->
+	<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-exp.min.css" />
+	
+</head>
+<body>
+<div class="container">
+	
+	<div class="timeline">
+		<!-- FIRST TICKMARK -->
+		<div class="timeline-item">
+			<!-- Small circle icon for tickmark -->
+			<div class="timeline-left"><a class="timeline-icon" href="#"></a></div><!-- .timeline-left -->
+			<div class="timeline-content">
+				<!-- TEXT IS CONTAINED IN TILE -->
+				<div class="tile">
+					<!-- THIS TILE CONTAINS 3 ITEMS -->
 					<div class="tile-content">
 						<p class="tile-title">Item 1 (title)</p>
 						<p class="tile-subtitle">Item 2 (subtitle)</p>
@@ -91,6 +90,7 @@ File `timeline-minimal-with-subtitle.html` [GitHub Source](https://github.com/to
 			</div><!-- .timeline-content -->
 		</div><!--.timeline -item -->
 	</div><!-- .timeline -->
+	
 </div><!-- .container -->
 </body>
 ```
