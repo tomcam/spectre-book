@@ -16,8 +16,7 @@ the `spectre-exp.min.css` style sheet.
 
 The first example is a timeline with one tickmark and a single item describing that tickmark.
 
-
-```html{17-28}
+```html
 <!doctype html>
 <html lang="en">
 <head>
@@ -55,7 +54,13 @@ The first example is a timeline with one tickmark and a single item describing t
 </body>
 ```
 
+File `timeline-minimal.html` [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/code/timeline-minimal.html), 
+[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/code/timeline-minimal.html)
+
 ## Example 2
+
+The second example adds another couple of items for that first tickmark. 
+They use the class `tile-subtitle`, which by default is the same as `tile-title`.
 
 ```html
 <!doctype html>
@@ -94,3 +99,7 @@ The first example is a timeline with one tickmark and a single item describing t
 </div><!-- .container -->
 </body>
 ```
+
+File `timeline-minimal-with-subtitle.html` [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/code/timeline-minimal-with-subtitle.html), 
+[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/code/timeline-minimal-with-subtitle.html)
+
