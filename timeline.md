@@ -57,7 +57,7 @@ The first example is a timeline with one tickmark and a single item describing t
 File `timeline-minimal.html` [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/code/timeline-minimal.html), 
 [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/code/timeline-minimal.html)
 
-## Example 2
+## Example 2: Add items to tickmark
 
 The second example adds another couple of items for that first tickmark. 
 They use the class `tile-subtitle`, which by default is the same as `tile-title`.
@@ -102,4 +102,71 @@ They use the class `tile-subtitle`, which by default is the same as `tile-title`
 
 File `timeline-minimal-with-subtitle.html` [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/code/timeline-minimal-with-subtitle.html), 
 [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/code/timeline-minimal-with-subtitle.html)
+
+Example 3: Another tickmark, and tooltip support
+
+```html
+<!doctype html>
+<html lang="en">
+<head>
+	<!-- Create title for browser tabs & Favorites -->
+	<title>Timeline with 2 tickmarks, tooltip demo | Spectre.css</title>
+	<!-- This site is responsive. Use full screen width. -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- Ensure use of most common Unicode characters -->
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
+	<!-- Considered an "experimental" feature -->
+	<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-exp.min.css" />
+</head>
+<body>
+<div class="container">
+	
+	<div class="timeline">
+		
+		<!-- FIRST TICKMARK -->
+		<div class="timeline-item">
+			<!-- Small circle icon for tickmark -->
+			<div class="timeline-left"><a class="timeline-icon" href="#"></a></div><!-- .timeline-left -->
+			<div class="timeline-content">
+				<!-- TEXT IS CONTAINED IN TILE -->
+				<div class="tile">
+					<!-- THIS TILE CONTAINS 3 ITEMS -->
+					<div class="tile-content">
+						<p class="tile-title">January</p>
+						<p class="tile-subtitle">Get release candidate out</p>
+						<p class="tile-subtitle">Update release page</p>
+					</div><!-- .tile-content -->
+				</div><!-- tile -->
+			</div><!-- .timeline-content -->
+		</div><!--.timeline -item -->
+
+		<!-- SECOND TICKMARK -->
+		<div class="timeline-item">
+			<!-- Large circle icon for tickmark -->
+			<!-- Add "icon-lg" class to select bigger icon -->
+			<!-- Add "tooltip" class for icon's hover-over text -->
+			<!-- Text of tooltip comes from "data-tooltip" option -->
+			<div class="timeline-left"><a class="timeline-icon icon-lg tooltip" data-tooltip="Oi!" href="#"></a></div><!-- .timeline-left -->
+			<div class="timeline-content">
+				<!-- TEXT IS CONTAINED IN TILE -->
+				<div class="tile">
+					<!-- THIS TILE CONTAINS 3 ITEMS -->
+					<div class="tile-content">
+						<p class="tile-title">February</p>
+						<p class="tile-subtitle">First bug pass on release candidate</p>
+					</div><!-- .tile-content -->
+				</div><!-- tile -->
+			</div><!-- .timeline-content -->
+		</div><!--.timeline -item -->
+
+
+	</div><!-- .timeline -->
+	
+</div><!-- .container -->
+</body>
+```
+
+File `timeline-second-tickmark.html` [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/code/timeline-second-tickmark.html), 
+[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/code/timeline-second-tickmark.html)
 
