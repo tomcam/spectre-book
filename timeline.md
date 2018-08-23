@@ -197,7 +197,8 @@ Let's add a third, checked tickmark. Just add this `timeline-item`:
 		</div><!-- tile -->
 	</div><!-- .timeline-content -->
 </div><!--.timeline -item -->
-</body>```
+</body>
+```
 
 The complete file is here:
 
