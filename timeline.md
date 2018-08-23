@@ -170,3 +170,38 @@ Example 3: Another tickmark, and tooltip support
 File `timeline-second-tickmark.html` [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/code/timeline-second-tickmark.html), 
 [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/code/timeline-second-tickmark.html)
 
+## Example 4: Add a checked tickmark
+
+Another option for tickmark is a checked version. 
+You get this via the `spectre-icons.min.css` style sheet.
+
+Let's add a third, checked tickmark. Just add this `timeline-item`:
+
+```html
+<!-- THIRD (CHECKED) TICKMARK -->
+<div class="timeline-item">
+	<!-- Large circle icon for tickmark -->
+	<!-- Add "icon-lg" class to select bigger icon -->
+	<div class="timeline-left">
+		<a class="timeline-icon icon-lg" href="#">
+			<i class="icon icon-check"></i>
+		</a>
+	</div>
+	<div class="timeline-content">
+		<!-- TEXT IS CONTAINED IN TILE -->
+		<div class="tile">
+			<!-- THIS TILE CONTAINS 3 ITEMS -->
+			<div class="tile-content">
+				<p class="tile-title">Check this, pal</p>
+			</div><!-- .tile-content -->
+		</div><!-- tile -->
+	</div><!-- .timeline-content -->
+</div><!--.timeline -item -->
+</body>```
+
+The complete file is here:
+
+File `timeline-checked-tickmark.html` [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/code/timeline-checked-tickmark.html), 
+[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/code/timeline-checked-tickmark.html)
+
+
