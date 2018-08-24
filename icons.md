@@ -11,7 +11,8 @@ The simplest possible case:
 <i class="icon icon-time"></i>
 ```
 
-Specify a size of 2x, 3x, or 4x to make it bigger:
+<i class="icon icon-time"></i>
+ Specify a size of 2x, 3x, or 4x to make it bigger:
 
 ```html
 <i class="icon icon-2x icon-time"></i>
