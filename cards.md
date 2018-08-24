@@ -81,11 +81,25 @@ Here is that same code expanded to show a more realistic presentation:
                 </div>
         </div><!-- .container -->
 </body>                      
-
 ```
 
 [Complete file source](https://github.com/tomcam/spectre-book/blob/master/code/card-title-body-only.html), 
 [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/code/card-title-body-only.html)
+
+### Note
+
+Note that along with the `card-title` style an `h4` style is used. 
+By default card titles have no distinguishing characteristics.
+That's a good time to use the inline `h4` style, which preserves
+the visual characteristics of an `<h4>` header but without forcing a line break.
+
+## Adding a subtitle to a card
+
+This next example is similar. It adds a `card-subtitle` div and uses the
+inline `h4` style. Experiment with others such as `h1` or `h3`.
+
+[Complete file source](https://github.com/tomcam/spectre-book/blob/master/code/card-title-subtitle-body.html), 
+[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/code/card-title-subtitle-body.html)
 
 
 
