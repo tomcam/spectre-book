@@ -81,9 +81,13 @@ Following that is a div of class `card-body`. Here's an abbreviated example:
                 </div>
         </div><!-- .container -->
 </body>                      
-~
 
 ```
+
+[Complete file source](https://github.com/tomcam/spectre-book/blob/master/code/card-title-body-only.html), 
+[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/code/card-title-body-only.html)
+
+
 
 
 ## Simple card with image
