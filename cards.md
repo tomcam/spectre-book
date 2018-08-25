@@ -299,7 +299,7 @@ The complete listing:
 </body>
 ```
 [Current file source](https://github.com/tomcam/spectre-book/blob/master/code/card-image-top-check.html), 
-[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/code/card-image-top-check.htmll)
+[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/code/card-image-top-check.html)
 
 
 ## Reference
