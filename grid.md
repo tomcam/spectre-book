@@ -12,7 +12,8 @@ A grid must be inside a div of type `container`:
 ## Each row is enclosed in a div of class "columns"
 
 A grid is made up of rows. Each row is a div designated,
-sadly, with the term `column`. 
+sadly, with the term `columns`, which it seems to me 
+should actually be called row, but isn't.
 Here's a grid with a single row. 
 It is of course 12 units wide:
 
