@@ -1,6 +1,8 @@
 # Cards
 
-TODO: Discuss requirement to put it in a grid
+TODO:
+* Discuss requirement to put it in a grid
+* Mention all extras such as text-gray and text-success
 
 Cards display information in panel form, 
 presented inside a subtle box outline.
@@ -139,7 +141,80 @@ Here's an excerpt from the code:
 [Complete file source](https://github.com/tomcam/spectre-book/blob/master/code/card-title-subtitle-body.html), 
 [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/code/card-title-subtitle-body.html)
 
-
-
 ## Simple card with image
+
+Cards come into their own when they house images. Take a look at this
+simple example showing a card with an image on top, a title, and some body text.
+
+![Screen shot of a a simple card image on top, title, and body text](/screenshots/screenshot-card-image-top.png)
+
+To add an image just add a div of class `card-image` anywhere 
+inside the `card` div. Here's some skeletal example code:
+
+```html
+<div class="card">
+        <div class="card-image">
+                <img src="images/example.jpg" class="img-responsive">
+        </div>
+        <div class="card-header">
+                <div class="card-title h4">
+                </div>
+        </div>
+        <div class="card-body">
+        </div>
+</div>
+```
+
+Here is a complete code listing with a sample image and typical text.
+
+```html
+<!doctype html>
+<html lang="en">
+<head>
+
+	<!-- Create title for browser tabs & Favorites -->
+	<title>Card with image on top | Spectre.css</title>
+	<!-- This site is responsive. Use full screen width. -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- Ensure use of most common Unicode characters -->
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
+<style>
+
+</style>
+</head>
+<body>
+	<div class="container">
+		<div class="columns">
+			<div class="column col-4">
+
+				<div class="card">
+					<div class="card-image">
+						<img src="images/person-801823_640.jpg"  class="img-responsive">
+					</div>
+					<div class="card-header">
+						<div class="card-title h4">
+							Checklists work!	
+						</div>
+					</div>
+					<div class="card-body">
+						Recent studies show that 
+						virtually all hospital procedures
+						show greatly decreased mortality
+						when all parties follow
+						checklists, even for the
+						simplest of tasks.
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div><!-- .container -->
+</body>
+
+```
+
+[Complete file source](https://github.com/tomcam/spectre-book/blob/master/code/card-image-top.html), 
+[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/code/card-image-top.html)
+
 
