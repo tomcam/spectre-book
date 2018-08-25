@@ -3,6 +3,10 @@
 
 # Using the Spectre.css built-in CSS icon set
 
+Spectre.css has a small but well-chosen set of CSS-only icons. Because they're CSS they contribute little
+to page size, keepimg your web pages lean and fast. As is the custom wih many other style sheet frameworks,
+they overload the italics tag.
+
 Source code for all [Spectre.css icons](https://github.com/picturepan2/spectre/blob/master/dist/spectre-icons.css)
 
 The simplest possible case:
