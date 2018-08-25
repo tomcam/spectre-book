@@ -220,7 +220,7 @@ Here is a complete code listing with a sample image and typical text.
 
 ## Simple card with image and float-right icon
 
-One neat example of the `float-right` class in the Spectre.css documentation is adding an incon
+One neat example of the `float-right` class in the Spectre.css documentation is adding an icon
 to the right of text or headline, like this:
 
 ![Screen shot of a card with image on top, checkmark icon to its right, then title and body text below](./screenshots/screenshot-card-image-top-check.png)
