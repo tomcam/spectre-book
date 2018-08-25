@@ -104,6 +104,37 @@ Here's the a screen shot:
 
 ![Screen shot of a card with only a title and body text](./screenshots/screenshot-card-title-subtitle-body.png)
 
+Here's an excerpt from the code:
+
+```html
+<div class="card">
+        <div class="card-header">
+                <div class="card-title h4">
+                        <span class="text-primary">
+                                Classic CSS text updated
+                        </span>
+                </div>
+                <div class="card-subtitle text-gray">
+                        By Tom Campbell	
+                </div>
+        </div>
+        <div class="card-body">
+                A classic and surprisingly affordable
+                text on efficient CSS has been updated
+                due to popular demand.
+
+                "The Least You Need to Know About Spectre.css" book 
+                from EasyOnMe Press was released to almost
+                unanimous acclaim two years ago. It has
+                been updated to reflect changing times
+                and profligate use of CPU cycles.
+
+                <a href="#"><span class="text-success">MORE</a>
+
+        </div>
+</div>
+
+```
 
 [Complete file source](https://github.com/tomcam/spectre-book/blob/master/code/card-title-subtitle-body.html), 
 [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/code/card-title-subtitle-body.html)
