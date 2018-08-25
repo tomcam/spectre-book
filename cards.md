@@ -218,6 +218,90 @@ Here is a complete code listing with a sample image and typical text.
 [Complete file source](https://github.com/tomcam/spectre-book/blob/master/code/card-image-top.html), 
 [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/code/card-image-top.html)
 
+## Simple card with image and float-right icon
+
+One neat example of the `float-right` class in the Spectre.css documentation is adding an incon
+to the right of text or headline, like this:
+
+![Screen shot of a card with image on top, checkmark icon to its right, then title and body text] below(./screenshots/screenshot-card-image-top-check.png)
+
+Here's the relevant code:
+
+```html
+<div class="card">
+	<div class="card-header">
+		<button class="btn btn-primary float-right"><i class="icon icon-check"></i></button>
+		<div class="card-title h4">
+			Checklists work!	
+		</div>
+	</div>
+	<div class="card-image">
+		<img src="assets/images/person-801823_640.jpg"  class="img-responsive">
+	</div>
+	<div class="card-body">
+		Recent studies show that 
+		virtually all hospital procedures
+		show greatly decreased mortality
+		when all parties follow
+		checklists, even for the
+		simplest of tasks.
+	</div>
+</div>
+```
+
+The complete listing:
+
+```html
+<!doctype html>
+<html lang="en">
+<head>
+
+	<!-- Create title for browser tabs & Favorites -->
+	<title>Card with image on top, float-right check icon | Spectre.css</title>
+	<!-- This site is responsive. Use full screen width. -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- Ensure use of most common Unicode characters -->
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
+	<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-icons.min.css">
+<style>
+
+</style>
+</head>
+<body>
+	<div class="container">
+		<div class="columns">
+			<div class="column col-4">
+
+				<div class="card">
+					<div class="card-header">
+						<button class="btn btn-primary float-right"><i class="icon icon-check"></i></button>
+						<div class="card-title h4">
+							Checklists work!	
+						</div>
+					</div>
+					<div class="card-image">
+						<img src="assets/images/person-801823_640.jpg"  class="img-responsive">
+					</div>
+					<div class="card-body">
+						Recent studies show that 
+						virtually all hospital procedures
+						show greatly decreased mortality
+						when all parties follow
+						checklists, even for the
+						simplest of tasks.
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div><!-- .container -->
+</body>
+```
+[Current file source](https://github.com/tomcam/spectre-book/blob/master/code/card-image-top-check.html), 
+[Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/code/card-image-top-check.htmll)
+
+
 ## Reference
 
 * SCSS source for the Spectre.css [cards implementation](https://github.com/picturepan2/spectre/blob/master/src/_cards.scss)
