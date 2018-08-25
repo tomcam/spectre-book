@@ -11,7 +11,9 @@ also contain buttons
 ## Simple text-only card
 
 A card may contain nothing but text. Normally that would consist of
-a title and some sort of body text. Technically
+a title and some sort of body text. Here's an example:
+
+![Screen shot of a card with only a title and body text](./screenshots/screenshot-card-title-body-only.png)
 
 The minimum card is wrapped inside a div of class `card`.
 It normally has a `header` div nested inside it, and
