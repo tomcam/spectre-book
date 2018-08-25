@@ -4,7 +4,8 @@ TODO:
 * Discuss requirement to put it in a grid
 * Mention all extras such as text-gray and text-success
 
-Cards display information in panel form, 
+[Cards](https://picturepan2.github.io/spectre/components.html#cards) 
+display information in panel form, 
 presented inside a subtle box outline.
 Often they contain an image, a title,
 a subtitle, and body text. They can
@@ -217,4 +218,8 @@ Here is a complete code listing with a sample image and typical text.
 [Complete file source](https://github.com/tomcam/spectre-book/blob/master/code/card-image-top.html), 
 [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/code/card-image-top.html)
 
+## Reference
 
+Spectre.css documentation for [cards](https://picturepan2.github.io/spectre/components.html#cards)  
+[SCSS source] for the Spectre.css [cards implementation](https://github.com/picturepan2/spectre/blob/master/src/_cards.scss)
+[Full spectre.css style sheet](https://github.com/picturepan2/spectre/blob/master/dist/spectre.css) on GitHub
