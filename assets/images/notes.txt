@@ -1,0 +1,3 @@
+This directory is for image assets used by sample code.
+
+Screen shots used in the book go in /screenshots
