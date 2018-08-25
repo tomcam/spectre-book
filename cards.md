@@ -221,5 +221,6 @@ Here is a complete code listing with a sample image and typical text.
 ## Reference
 
 Spectre.css documentation for [cards](https://picturepan2.github.io/spectre/components.html#cards)  
-[SCSS source] for the Spectre.css [cards implementation](https://github.com/picturepan2/spectre/blob/master/src/_cards.scss)
-[Full spectre.css style sheet](https://github.com/picturepan2/spectre/blob/master/dist/spectre.css) on GitHub
+[SCSS source] for the Spectre.css [cards implementation](https://github.com/picturepan2/spectre/blob/master/src/_cards.scss . 
+[Full spectre.css style sheet](https://github.com/picturepan2/spectre/blob/master/dist/spectre.css) on GitHub . 
+
