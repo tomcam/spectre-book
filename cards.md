@@ -100,6 +100,11 @@ the visual characteristics of an `<h4>` header but without forcing a line break.
 This next example is similar. It adds a `card-subtitle` div and uses the
 inline `h4` style. Experiment with others such as `h1` or `h3`.
 
+Here's the a screen shot:
+
+![Screen shot of a card with only a title and body text](./screenshots/screenshot-card-title-subtitle-body.png)
+
+
 [Complete file source](https://github.com/tomcam/spectre-book/blob/master/code/card-title-subtitle-body.html), 
 [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/code/card-title-subtitle-body.html)
 
