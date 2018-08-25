@@ -19,8 +19,8 @@ a title and some sort of body text. Here's an example:
 ![Screen shot of a card with only a title and body text](./screenshots/screenshot-card-title-body-only.png)
 
 The minimum card is wrapped inside a div of class `card`.
-It normally has a `header` div nested inside it, and
-within the `header` div is a `card-title` div.
+It normally has a `card-header` div nested inside it, and
+within the `card-header` div is a `card-title` div.
 
 Following that is a div of class `card-body`. Here's an abbreviated example:
 
