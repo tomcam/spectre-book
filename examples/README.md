@@ -18,6 +18,14 @@ It's likely that by the time you read this the version of Spectre.css used in th
 Header, followed by two wide columns, followed by two columns under each of the 
 previous two coloms. [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/2col-4col-page-header.html), [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/2col-4col-page-header.html)
 
+### 2col-page ###
+
+XXX. [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/2col-page.html), [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/2col-page.html)
+
+### 2col-blog ###
+
+XXX. [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/2col-blog.html), [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/2col-blog.html)
+
 ### min-nav.html ###
 
 Minimum template with navbar. [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/min-nav.html), [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/min-nav.html)
