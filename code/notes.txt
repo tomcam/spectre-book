@@ -1,2 +1,2 @@
 Contains short (though complete) code listings that aren't interestin enough to be templates,
-which are round in the /examples directory
+which are found in the /examples directory
