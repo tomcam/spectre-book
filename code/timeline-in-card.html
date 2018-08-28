@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<!-- Create title for browser tabs & Favorites -->
+	<title>Timeline inside card | Spectre.css</title>
+	<!-- This site is responsive. Use full screen width. -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- Ensure use of most common Unicode characters -->
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
+	<!-- Considered an "experimental" feature -->
+	<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-exp.min.css" />
+	<!-- Spectre.css icons are used -->
+	<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-icons.min.css"> 
+</head>
+<body>
+<div class="container" >
+	<div class="columns" >
+		<div class="column col-4 centered">
+			<div class="card">
+				<div class="card-image">
+					<img src="assets/images/robot-2301646_640.jpg" class="img-responsive" alt="Picture of robot">
+				</div>
+				<div class="card-header">
+					<div class="card-title h2">
+						T-42 Development Timeline
+					</div>
+				</div>
+				<div class="card-body">
+					<div class="timeline">
+						<!-- FIRST TICKMARK -->
+						<div class="timeline-item">
+							<!-- Small circle icon for tickmark -->
+							<div class="timeline-left"><a class="timeline-icon" href="#"></a></div>
+							<div class="timeline-content">
+								<div class="tile">
+								<!-- TEXT IS CONTAINED IN TILE -->
+									<div class="tile-content">
+										<p class="tile-title h4">January</p>
+										<p class="tile-subtitle h5">Marcus@Skynet delivers wetware</p>
+										<p class="tile-subtitle">Consider staff fatality issue?</p>
+									</div><!-- .tile-content -->
+								</div><!-- tile -->
+							</div><!-- .timeline-content -->
+						</div><!--.timeline -item -->
+
+						<!-- SECOND TICKMARK -->
+						<div class="timeline-item">
+							<!-- Large circle icon for tickmark -->
+							<!-- Add "icon-lg" class to select bigger icon -->
+							<!-- Add "tooltip" class for icon's hover-over text -->
+							<!-- Text of tooltip comes from "data-tooltip" option -->
+							<div class="timeline-left"><a class="timeline-icon icon-lg tooltip" data-tooltip="Oi!" href="#"></a></div>
+							<div class="timeline-content">
+								<!-- TEXT IS CONTAINED IN TILE -->
+								<div class="tile">
+									<!-- THIS TILE CONTAINS 3 ITEMS -->
+									<div class="tile-content">
+										<p class="tile-title h4">February</p>
+										<p class="tile-subtitle h5">Tone down roid rage simulation</p>
+									</div><!-- .tile-content -->
+								</div><!-- tile -->
+							</div><!-- .timeline-content -->
+						</div><!--.timeline -item -->
+
+					</div><!--.timeline  -->
+				</div><!-- .card-body -->
+			</div><!-- .card -->
+		</div><!-- column col-12 -->
+	</div><!-- .columns -->		
+</div><!-- .container -->
+</body>
