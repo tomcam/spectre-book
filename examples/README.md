@@ -27,6 +27,15 @@ Simple, bold page with 1 column filling each side of the page. [GitHub Source](h
 Blog with the left column reserved as a sidebar/title,
 and the right column devoted to text. [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/2col-blog.html), [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/2col-blog.html)
 
+### gallery-pricing
+Minimum template with navbar. 
+
+![Screen shot of the gallery pricing template](images/spectre-template-gallery-pricing.png)
+
+[GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/gallery-pricing.html), [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/gallery-pricing.html)
+
+
+
 ### min-nav.html ###
 
 Minimum template with navbar. [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/min-nav.html), [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/min-nav.html)
