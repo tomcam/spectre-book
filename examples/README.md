@@ -16,7 +16,11 @@ It's likely that by the time you read this the version of Spectre.css used in th
 ## 2col-4col-page-header
 
 Header, followed by two wide columns, followed by two columns under each of the 
-previous two coloms. [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/2col-4col-page-header.html), [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/2col-4col-page-header.html)
+previous two columns. 
+
+![Screen shot of two column/4 column template with header row](2col-4col-page-header.png)
+
+[GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/2col-4col-page-header.html), [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/2col-4col-page-header.html)
 
 ## 2col-page
 
