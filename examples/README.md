@@ -13,22 +13,23 @@ It's likely that by the time you read this the version of Spectre.css used in th
 
 ## Free Spectre.css website templates
 
-### 2col-4col-page-header ###
+## 2col-4col-page-header
 
 Header, followed by two wide columns, followed by two columns under each of the 
 previous two coloms. [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/2col-4col-page-header.html), [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/2col-4col-page-header.html)
 
-### 2col-page ###
+## 2col-page
 
 Simple, bold page with 1 column filling each side of the page. [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/2col-page.html), [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/2col-page.html)
 
-### 2col-blog ###
+## 2col-blog
 
 Blog with the left column reserved as a sidebar/title,
 and the right column devoted to text. [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/2col-blog.html), [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/2col-blog.html)
 
-### gallery-pricing
-Minimum template with navbar. 
+## gallery-pricing
+
+Classic three-tier pricing page 
 
 ![Screen shot of the gallery pricing template](images/spectre-template-gallery-pricing.png)
 
@@ -36,11 +37,11 @@ Minimum template with navbar.
 
 
 
-### min-nav.html ###
+## min-nav.html
 
 Minimum template with navbar. [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/min-nav.html), [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/min-nav.html)
 
-### plain-nav.html ###
+## plain-nav.html
 
 Template with plain navbar. [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/plain-nav.html), [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/plain-nav.html)
 
