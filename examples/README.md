@@ -51,7 +51,11 @@ Minimum template with navbar. [GitHub Source](https://github.com/tomcam/spectre-
 
 ## plain-nav.html
 
-Template with plain navbar. [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/plain-nav.html), [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/plain-nav.html)
+Template with plain navbar. 
+
+![Small template with navbar](images/spectre-template-plain-nav.png)
+
+[GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/plain-nav.html), [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/plain-nav.html)
 
 <!--
 **XXX** Minimum template with navbar. [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/sss.html), [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/xxx.html)
