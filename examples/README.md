@@ -24,7 +24,11 @@ previous two columns.
 
 ## 2col-page
 
-Simple, bold page with 1 column filling each side of the page. [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/2col-page.html), [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/2col-page.html)
+Simple, bold page with 1 column filling each side of the page. 
+
+![Screen shot of two-column page](images/spectre-template-2col-page.png)
+
+[GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/2col-page.html), [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/2col-page.html)
 
 ## 2col-blog
 
