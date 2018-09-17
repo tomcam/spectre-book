@@ -27,7 +27,7 @@ It is semantically just paragraph, not a header.</p>
 <p>Semantically of course this is an h5, not an h2.</p>
 ```
 
-File `text-example-1.html` [GitHub Soure](https://github.com/tomcam/spectre-book/blob/master/code/text-example-1.html
+File `text-example-1.html` [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/code/text-example-1.html
 ), 
 [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/code/text-example-1.html
 )
