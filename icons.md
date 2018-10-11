@@ -31,39 +31,34 @@ The simplest possible case:
 
 
 
-| Icon                                        | Description     | Spectre.css Markdown |
-| ------------------------------------------- | --------------- | -------------------- |      
-| <i class="icon icon-2x icon-time"></i>      | Clock           | icon-time            |
-| <i class="icon icon-2x icon-people"></i>    | People          | icon-people         |
-
-        <i class=" icon-flag icon icon-2x"></i>                                                                                                            
-        <i class=" icon-arrow-down icon icon-2x"></i>                                                                                                      
-        <i class=" icon-arrow-downward icon icon-2x"></i>                                                                                                  
-        <i class=" icon-arrow-up icon icon-2x"></i>                                                                                                        
-        <i class=" icon-arrow-upward icon icon-2x"></i>                                                                                                    
-        <i class=" icon-arrow-left icon icon-2x"></i>                                                                                                      
-        <i class=" icon-arrow-right icon icon-2x"></i>                                                                                                     
-        <i class=" icon-back icon icon-2x"></i>                                                                                                            
-        <i class=" icon-forward icon icon-2x"></i>                                                                                                         
-        <i class=" icon-upward icon icon-2x"></i>                                                                                                          
-        <br />                                                                                                                                             
-                                                                                                                                                           
-        <i class=" icon-caret icon icon-2x"></i>                                                                                                           
-        <i class=" icon-menu icon icon-2x"></i>                                                                                                            
-        <i class=" icon-apps icon icon-2x"></i>                                                                                                            
-        <i class=" icon-resize-horiz icon icon-2x"></i>                                                                                                    
-        <i class=" icon-resize-vert icon icon-2x"></i>                                                                                                     
-        <i class=" icon-more-horiz icon icon-2x"></i>                                                                                                      
-        <i class=" icon-more-vert icon icon-2x"></i>                                                                                                       
-        <i class=" icon-plus icon icon-2x"></i>                                                                                                            
-        <i class=" icon-minus icon icon-2x"></i>                                                                                                           
-        <i class=" icon-cross icon icon-2x"></i>                                                                                                           
-        <i class=" icon-check icon icon-2x"></i>                                                                                                           
-        <i class=" icon-cross icon icon-2x"></i>                                                                                                           
-        <i class=" icon-stop icon icon-2x"></i>                                                                                                            
-        <i class=" icon-shutdown icon icon-2x"></i>                                                                                                        
-        <i class=" icon-refresh icon icon-2x"></i>                                                                                                         
-                                                                                                                                                           
+| Icon                                                | Description               | Spectre.css Markdown |
+| --------------------------------------------------- | ------------------------- | -------------------- |      
+| <i class="icon icon-2x icon-time"></i>              | Clock                     | icon-time            |
+| <i class="icon icon-2x icon-people"></i>            | People                    | icon-people          |
+| <i class="icon-flag icon icon-2x"></i>              | Flag                      | icon-flag            |                                                                                                  
+| <i class="icon-arrow-down icon icon-2x"></i>        | Caret pointing down       | icon-arrow-down      |                                                                                                
+| <i class="icon-arrow-up icon icon-2x"></i>          | Caret pointing up         | icon-arrow-up        |                                                                                              
+| <i class="icon-arrow-left icon icon-2x"></i>        | Caret pointing left       | icon-arrow-left      |                                                                                                  
+| <i class="icon-arrow-right icon icon-2x"></i>       | Caret pointing right      | icon-arrow-right     |                                                                                                     
+| <i class="icon-arrow-downward icon icon-2x"></i>    | Arrow pointing down       | icon-arrow-downward  |                                                                                                 
+| <i class="icon-arrow-upward icon icon-2x"></i>      | Arrow pointing up         | icon-arrow-upward    |                                                                                                  
+| <i class="icon-back icon icon-2x"></i>              | Arrow pointing left       | icon-back            |                                                                                                       
+| <i class="icon-forward icon icon-2x"></i>           | Arrow pointing right      | icon-forward         |                                                                                                        
+| <i class="icon-upward icon icon-2x"></i>            | XXX                       | icon-upward          |                                                                                                         
+| <i class="icon-caret icon icon-2x"></i>             | Solid caret pointing down | icon-caret           |                                                                                                           
+| <i class="icon-menu icon icon-2x"></i>              | Menu                      | icon-menu            |                                                                                                            
+| <i class="icon-apps icon icon-2x"></i>              | Applications              | icon-apps            |                                                                                                            
+| <i class="icon-resize-horiz icon icon-2x"></i>      | Resize horizontally       | icon-resize-horiz    |                                                                                              
+| <i class="icon-resize-vert icon icon-2x"></i>       | Resize vertically         | icon-resize-vert     |                                                                                                     
+| <i class="icon-more-horiz icon icon-2x"></i>        | XXX                       | icon-more-horiz      |                                                                                                      
+| <i class="icon-more-vert icon icon-2x"></i>         | XXX                       | icon-more-vert       |                                                                                                       
+| <i class="icon-plus icon icon-2x"></i>              | Plus                      | icon-plus            |                                                                                                           
+| <i class="icon-minus icon icon-2x"></i>             | Minus                     | icon-minus           |                                                                                                          
+| <i class="icon-check icon icon-2x"></i>             | Checkmark                 | icon-check           |                                                                                                          
+| <i class="icon-cross icon icon-2x"></i>             | Cross/uncheck             | icon-cross           |                                                                                                          
+| <i class="icon-stop icon icon-2x"></i>              | Stop/prohbited            | icon-stop            |                                                                                                          
+| <i class="icon-shutdown icon icon-2x"></i>          | Shutdown/power off        | icon-shutdown        |                                                                                               
+| <i class="icon-refresh icon icon-2x"></i>           | Refresh                   | icon-refresh         |                                                                                                                
         <i class=" icon-search icon icon-2x"></i>                                                                                                          
         <i class=" icon-edit icon icon-2x"></i>                                                                                                            
         <i class=" icon-delete icon icon-2x"></i>                                                                                                          
