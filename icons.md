@@ -69,9 +69,9 @@ The simplest possible case:
 | <i class="icon-upload icon icon-2x"></i>            | Upload                    | icon-upload          |                                                                                                   
 | <i class="icon-time icon icon-2x"></i>              | Clock/time                | icon-time            |                                                                                                    
 | <i class="icon-mail icon icon-2x"></i>              | Mail                      | icon-mail            |                                                                                                           
-        <i class=" icon-people icon icon-2x"></i>                                                                                                          
-        <i class=" icon-message icon icon-2x"></i>                                                                                                         
-        <i class=" icon-photo icon icon-2x"></i>                                                                                                           
-        <i class=" icon-link icon icon-2x"></i>                                                                                                            
-        <i class=" icon-location icon icon-2x"></i>                                                                                                        
-        <i class=" icon-emoji icon icon-2x"></i>                
+| <i class="icon-people icon icon-2x"></i>            | People                    | icon-people          |
+| <i class="icon-message icon icon-2x"></i>           | Message                   | icon-message         |                                                                                                    
+| <i class="icon-photo icon icon-2x"></i>             | Camera                    | icon-photo           |                                                                                                       
+| <i class="icon-link icon icon-2x"></i>              | Link                      | icon-link            |                                                                                                          
+| <i class=" icon-location icon icon-2x"></i>          | Location (map pin)        | icon-location        |                                                                                                     
+| <i class="icon-emoji icon icon-2x"></i>             | Emoji                     | icon-emoji           |                
