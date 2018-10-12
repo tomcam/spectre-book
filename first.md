@@ -20,17 +20,15 @@ File `min.html` [GitHub Source](https://github.com/tomcam/spectre-book/blob/mast
 	<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css" />
 </head>
 <body>
- 	<div class="container">
-		<h1>Minimal Spectre.css template</h1>
-		<p>Entire page within div of class container</p>
-	</div><!-- .container -->
+	<h1>Minimal Spectre.css template</h1>
+	<p>Entire page within div of class container</p>
 </body>
 </html>
 ```
 
 Here's the resulting web page:
 
-![](screenshots/screenshot-min-1024x512.png)
+![](./screenshots/screenshot-min-1024x512.png)
 
 
 ## Adding a plain navbar
