@@ -21,7 +21,7 @@ File `min.html` [GitHub Source](https://github.com/tomcam/spectre-book/blob/mast
 </head>
 <body>
 	<h1>Minimal Spectre.css template</h1>
-	<p>Entire page within div of class container</p>
+	<p>CSS reset looks identical on all major browsers</p>
 </body>
 </html>
 ```
