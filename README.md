@@ -1,5 +1,8 @@
 # The LEAST you need to know about Spectre.css
 
+## Preview on GitHub Pages:
+[https://tomcam.github.io/spectre-book/](https://tomcam.github.io/spectre-book/)
+
 This is a book in progress on how to use the remarkable [Spectre.css Framework](https://picturepan2.github.io/spectre/). Spectre.css has a perfectly balanced blend of features. Spectre is
 
 * Small (about 10-20KB gzipped)
