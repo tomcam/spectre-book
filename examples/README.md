@@ -33,7 +33,11 @@ Simple, bold page with 1 column filling each side of the page.
 ## 2col-blog
 
 Blog with the left column reserved as a sidebar/title,
-and the right column devoted to text. [GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/2col-blog.html), [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/2col-blog.html)
+and the right column devoted to text. 
+
+![Screen shot of two-column blog](screenshot-2col-blog-spectre-css.png)
+
+[GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/2col-blog.html), [Preview](https://htmlpreview.github.com/?https://github.com/tomcam/spectre-book/blob/master/examples/2col-blog.html)
 
 ## gallery-pricing
 
