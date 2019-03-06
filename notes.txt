@@ -1,2 +1,27 @@
-Name screenshots starting with the word screenshot, hyphen, item name (like 2col-blog), hypen, then spectre-css and finally the extension. 
-So, for example screenshot-2col-blog-spectre-css.png
+## How to
+
+### Screenshots
+* Name screenshots starting with the word screenshot, hyphen, item name (like 2col-blog), hypen, the dimensions
+(e.g. 1024x512), a hypen, then spectre-css and finally the extension. 
+So, for example screenshot-2col-blog-1024x512-spectre-css.png
+* Upload to /screenshots
+* When linking, follow this pattern. Note the directory, such as examples, may need changing.
+
+````
+[GitHub Source](https://github.com/tomcam/spectre-book/blob/master/examples/plain-nav.html),
+[GitHub preview](http://htmlpreview.github.io/?https://github.com/tomcam/spectre-book/blob/master/examples/plain-nav.html)
+````
+
+### The unfinished version for code copy pasta (replace `XXX` with correct directory).
+
+````
+[GitHub Source](https://github.com/tomcam/spectre-book/blob/master/XXX/filename.ext),
+[GitHub preview](http://htmlpreview.github.io/?https://github.com/tomcam/spectre-book/blob/master/XXX/filename.ext)
+
+````
+
+### The unfinished version for screenshots
+
+````
+https://github.com/tomcam/spectre-book/blob/master/screenshots/screenshot-XXX-XXXxXXX.png
+````
