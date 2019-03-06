@@ -5,7 +5,7 @@ Here's a selection of drop-in HTML files you can use to start a Spectre.css-base
 
 ## How to use these free Spectre.css templates
 
-Most of these templates are designed so that you can copy them into a local directory on your machine or sever and they should just work. In some cases you may need image files in a subdirectory named images. You don't even need Spectre.css on your machine, because they are hosted on a CDN. Which means..
+Most of these templates are designed so that you can copy them into a local directory on your machine or server and they should just work. In some cases you may need image files in a subdirectory named images. You don't even need Spectre.css on your machine, because they are hosted on a CDN. Which means..
 
 ### Production and compatibility warning
 
