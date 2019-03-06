@@ -1,0 +1,2 @@
+Name screenshots starting with the word screenshot, hyphen, item name (like 2col-blog), hypen, then spectre-css and finally the extension. 
+So, for example screenshot-2col-blog-spectre-css.png
