@@ -100,7 +100,6 @@ Let's take a look at that skeleton filled out for real-world use:
 	<meta name="description" content="2 column blog template">
 	<meta name="keywords" content="spectre.css, blog, 2 columns, template">	
 	<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
-	<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-exp.min.css">
 	<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-icons.min.css">
 	<style>
 		p { font-size: 1.5em;}	
