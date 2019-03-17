@@ -20,41 +20,40 @@ While this book is in progress, check out the [Examples](examples/) section for 
 
 This book emphasizes the use of complete HTML files with extensive comments, instead of providing fragments without context. Whenever possible, each concept discussed contains at least one downloadable HTML file you can run as is.
 
-## [Spectre.css tutorial: Your first Spectre.css project](first.md)
-### [Adding a plain navbar](first.md#adding-a-plain-navbar)
-### [Multiple columns and the grid model](grid.md)
+**[Spectre.css tutorial: Your first Spectre.css project](first.md)**
+[Adding a plain navbar](first.md#adding-a-plain-navbar) . 
+[Multiple columns and the grid model](grid.md) . 
 
-## Components
-### [Cards](cards.md)
-### [Timelins](timeline.md)
+**Components**
+[Cards](cards.md) . 
+[Timelines](timeline.md) . 
 
-## [Dictionary](dictionary.md)
-### [Colors](colors.md)
-### [Icons](icons.md)
+**[Dictionary](dictionary.md)**
+[Colors](colors.md) . 
+[Icons](icons.md) . 
 
 
 ## Reference
 
-### Spectre.css source
-* [spectre.css](https://github.com/picturepan2/spectre/blob/master/docs/dist/spectre.css)
-* [spectre-exp.css (experimentals)](https://github.com/picturepan2/spectre/blob/master/docs/dist/spectre-exp.css)
-* [dist directory](https://github.com/picturepan2/spectre/tree/master/docs/dist)
-* [spectre.scss](https://github.com/picturepan2/spectre/blob/master/src/spectre.scss)
-* [GitHub Issues](https://github.com/picturepan2/spectre/issues)
+**Spectre.css source**
+[spectre.css](https://github.com/picturepan2/spectre/blob/master/docs/dist/spectre.css) . 
+[spectre-exp.css (experimentals)](https://github.com/picturepan2/spectre/blob/master/docs/dist/spectre-exp.css) . 
+[dist directory](https://github.com/picturepan2/spectre/tree/master/docs/dist) . 
+[spectre.scss](https://github.com/picturepan2/spectre/blob/master/src/spectre.scss) . 
+[GitHub Issues](https://github.com/picturepan2/spectre/issues) . 
 
-### Official docs
-
-* [Elements](https://picturepan2.github.io/spectre/elements.html)
-* [Layout](https://picturepan2.github.io/spectre/layout.html)
-  * [Navbar](https://picturepan2.github.io/spectre/layout.html#navbar)
-* [Components](https://picturepan2.github.io/spectre/components.html)
-  * [Tabs](https://picturepan2.github.io/spectre/components.html#tabs)
-* [Utilities](https://picturepan2.github.io/spectre/utilities.html)
-  * [Colors, both semantic and named background colors](https://picturepan2.github.io/spectre/utilities.html#colors)
-  * [Horizontal and vertical dividers](https://picturepan2.github.io/spectre/utilities.html#display)
-  * [Positioning for layout, float, margins](https://picturepan2.github.io/spectre/utilities.html#position)
-  * [Shaped divs](https://picturepan2.github.io/spectre/utilities.html#shapes)
-  * [Text](https://picturepan2.github.io/spectre/utilities.html#text)
+**Official docs**
+[Elements](https://picturepan2.github.io/spectre/elements.html) . 
+[Layout](https://picturepan2.github.io/spectre/layout.html) . 
+[Navbar](https://picturepan2.github.io/spectre/layout.html#navbar) . 
+[Components](https://picturepan2.github.io/spectre/components.html) . 
+[Tabs](https://picturepan2.github.io/spectre/components.html#tabs) . 
+[Utilities](https://picturepan2.github.io/spectre/utilities.html) . 
+[Colors, both semantic and named background colors](https://picturepan2.github.io/spectre/utilities.html#colors) . 
+[Horizontal and vertical dividers](https://picturepan2.github.io/spectre/utilities.html#display) . 
+[Positioning for layout, float, margins](https://picturepan2.github.io/spectre/utilities.html#position) . 
+[Shaped divs](https://picturepan2.github.io/spectre/utilities.html#shapes) . 
+[Text](https://picturepan2.github.io/spectre/utilities.html#text) . 
 
 ## Notes to self
 
