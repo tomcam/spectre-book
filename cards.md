@@ -27,13 +27,13 @@ Following that is a div of class `card-body`. Here's an abbreviated example:
 ```html
 <div class="card">
 	<div class="card-header">
-  	<div class="card-title h4">
-    	Title
-    </div>
+		<div class="card-title h4">
+			Title
+		</div>
 	</div>
-  <div class="card-body">
-      Body text
-  </div>
+	<div class="card-body">
+	Body text
+	</div>
 </div>
 
 ```
