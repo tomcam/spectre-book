@@ -20,12 +20,18 @@ While this book is in progress, check out the [Examples](examples/) section for 
 
 This book emphasizes the use of complete HTML files with extensive comments, instead of providing fragments without context. Whenever possible, each concept discussed contains at least one downloadable HTML file you can run as is.
 
-## Contents
+## [Spectre.css tutorial: Your first Spectre.css project](first.md)
+### [Adding a plain navbar](first.md#adding-a-plain-navbar)
+### [Multiple columns and the grid model](grid.md)
 
-### [Spectre.css tutorial: Your first Spectre.css project](first.md)
-#### [Adding a plain navbar](https://github.com/tomcam/spectre-book/blob/master/first.md#adding-a-plain-navbar)
-#### [Multiple columns and the grid model](https://github.com/tomcam/spectre-book/blob/master/grid.md)
-### [Dictionary](dictionary.md)
+## Components
+### [Cards](cards.md)
+### [Timelins](timeline.md)
+
+## [Dictionary](dictionary.md)
+### [Colors](colors.md)
+### [Icons](icons.md)
+
 
 ## Reference
 
