@@ -9,7 +9,7 @@ display information in panel form,
 presented inside a subtle box outline.
 Often they contain an image, a title,
 a subtitle, and body text. They can
-also contain buttons
+also contain buttons.
 
 ## Simple text-only card
 
@@ -26,15 +26,15 @@ Following that is a div of class `card-body`. Here's an abbreviated example:
 
 ```html
 <div class="card">
-        <div class="card-header">
-          <div class="card-title h4">
-            Title
-          </div><!-- .card-title -->    
-        </div><!--- .card-header -->
-        <div class="card-body">
-            Body text
-        </div><!-- .card-body --> 
-</div><!-- .card -->
+	<div class="card-header">
+  	<div class="card-title h4">
+    	Title
+    </div>
+	</div>
+  <div class="card-body">
+      Body text
+  </div>
+</div>
 
 ```
 Here is that same code expanded to show a more realistic presentation:
